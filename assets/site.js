@@ -1,6 +1,6 @@
 // The only values to edit. Leave empty to show the "coming soon" text.
 const SITE_CONFIG = {
-  contactEmail: '',          // e.g. 'hello@cartfriend.app'
+  contactEmail: 'cartfriendapp@gmail.com',
   ownerName: '',             // your full name as shown in the stores
 };
 
